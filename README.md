@@ -1,4 +1,4 @@
-# activemq
+# Activemq
 
 To build this image
 ```bash
